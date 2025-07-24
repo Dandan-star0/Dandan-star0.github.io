@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-share-title: "Hypatia of Alexandria - Publications"
+share-title: "Dandan Wei - Publications"
 permalink: /Publications/
 ---
 
