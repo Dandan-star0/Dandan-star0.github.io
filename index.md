@@ -4,7 +4,7 @@ layout: home
 title: "Dandan Wei"
 subtitle: Astronomer
 share-title: "Dandan Wei - Home"
-share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
+share-description: "astronomy"
 support-promo-box: true
 cover-img:
     - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
