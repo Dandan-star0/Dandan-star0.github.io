@@ -1,9 +1,9 @@
 ---
 layout: home
 
-title: "Hypatia of Alexandria"
-subtitle: Astronomer, Philosopher, Mathematician
-share-title: "Hypatia of Alexandria - Home"
+title: "Dandan Wei"
+subtitle: Astronomer
+share-title: "Dandan Wei - Home"
 share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
 support-promo-box: true
 cover-img:
@@ -12,7 +12,7 @@ cover-img:
 
 # About me
 
-Greetings! I’m **Hypatia of Alexandria** (c. 360–415 CE), a philosopher, mathematician, and astronomer living in Roman Egypt. I lead the Neoplatonist school in Alexandria, where I teach mathematics, astronomy, and philosophy. My work builds on the legacies of thinkers like Ptolemy and Plotinus, and I strive to inspire others through reason, observation, and the pursuit of wisdom.
+Greetings! I’m **Dandan Wei** (c. 360–415 CE), a philosopher, mathematician, and astronomer living in Roman Egypt. I lead the Neoplatonist school in Alexandria, where I teach mathematics, astronomy, and philosophy. My work builds on the legacies of thinkers like Ptolemy and Plotinus, and I strive to inspire others through reason, observation, and the pursuit of wisdom.
 
 I’ve edited and commented on seminal works such as *Ptolemy’s Almagest* and *Diophantus’ Arithmetica*, and I’ve developed instruments like the astrolabe and hydrometer with my students.
 
