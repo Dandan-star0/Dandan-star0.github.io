@@ -452,3 +452,26 @@ footer p::before {
 
 
 
+
+/* ===== Outreach Page ===== */
+.outreach-intro {
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+.outreach-intro p {
+  margin-bottom: 20px;
+}
+
+.image-carousel {
+  margin: 30px 0;
+}
+
+.image-carousel img {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+
