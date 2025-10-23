@@ -20,14 +20,53 @@ title: "Home"
 
 ---
 
-## About Me
+<div class="bottom-grid">
 
-I am a postdoctoral research fellow at ISTA, Austria, working on  
-**the evolution and final fate of massive binary stars**, **gravitational mergers**,  
-and **interacting supernovae**.  
+  <div class="about-box">
+    <h2>About Me</h2>
+    <p>
+      I am a postdoctoral research fellow at ISTA, Austria, working on 
+      <strong>the evolution and final fate of massive binary stars</strong>, 
+      <strong>gravitational mergers</strong>, and 
+      <strong>interacting supernovae</strong>.
+    </p>
+    <p>
+      My research combines <strong>stellar evolution theory</strong>, 
+      and <strong>light-curve modelling</strong> to understand
+      how massive stars evolve, collapse, and produce gravitational-wave
+      progenitors and diverse supernova types.
+    </p>
+    <p class="read-more">
+        <a href="/research">Read more about my research →</a>
+    </p>
 
-My research combines **stellar evolution theory**, and **light-curve modelling** 
-to understand how massive stars evolve, collapse, and produce gravitational-wave 
-mergers and diverse supernova types.
+  </div>
+
+  <div class="news-box">
+    <h2>📢 Recent News</h2>
+
+    <div class="news-item">
+      <div class="news-date">2024.09</div>
+      <div class="news-content">
+        🎉 Joined <strong>ISTA</strong> as a Postdoctoral Fellow under Prof. Ylva Götberg.
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">2023.07</div>
+      <div class="news-content">
+        🏅 Completed postdoctoral research at <strong>HITS</strong> with Dr. Fabian Schneider.
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">2021.09</div>
+      <div class="news-content">
+        🎓 Defended Ph.D. thesis at <strong>Yunnan Observatories, CAS</strong>.
+      </div>
+    </div>
+
+  </div>
 
 </div>
+
