@@ -5,26 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Dandan Wei</title>
 
-    <!-- 引入自定义 CSS（改为相对路径，防止加载失败） -->
+    <!-- Load Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
   </head>
 
   <body>
-    <!-- 顶部导航栏 -->
+    <!-- Top Navigation -->
     <nav>
-      <a href="/">Home</a>
-      <a href="/research">Research</a>
-      <a href="/publications">Publications</a>
-      <a href="/cv">CV</a>
+      <div class="nav-left">
+        <strong>ISTA · Dandan Wei</strong>
+      </div>
+      <div class="nav-right">
+        <a href="/">Home</a>
+        <a href="/research">Research</a>
+        <a href="/publications">Publications</a>
+        <a href="/cv">CV</a>
+      </div>
     </nav>
 
-    <!-- 页面主要内容 -->
-    <main>
+    <!-- Page Content -->
+    <main class="page-content">
       {{ content }}
     </main>
+
+    <!-- Night Mode Toggle -->
+    <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
 
     <footer>
       <p>© 2025 Dandan Wei | Built with GitHub Pages</p>
     </footer>
+
+    <script>
+      // Dark/Light theme switch
+      function toggleTheme() {
+        const body = document.body;
+        const current = body.getAttribute("data-theme");
+        const next = current === "dark" ? "light" : "dark";
+        body.setAttribute("data-theme", next);
+        localStorage.setItem("theme", next);
+      }
+      document.body.setAttribute("data-theme", localStorage.getItem("theme") || "light");
+    </script>
   </body>
 </html>
