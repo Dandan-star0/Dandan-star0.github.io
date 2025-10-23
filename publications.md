@@ -3,12 +3,6 @@ layout: default
 title: "Publications"
 ---
 
-<nav>
-  <a href="/">Home</a>
-  <a href="/research">Research</a>
-  <a href="/publications">Publications</a>
-  <a href="/cv">CV</a>
-</nav>
 
 <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
 
