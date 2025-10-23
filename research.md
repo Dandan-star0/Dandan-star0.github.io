@@ -26,7 +26,7 @@ I explore how binary interactions shape the fates of massive stars and produce d
     </div>
   </div>
 
-  <div class="research-card" style="background-image: url('/assets/images/cluster.jpg');">
+  <div class="research-card" style="background-image: url('/assets/images/globular_cluster_Terzan_2.jpg');">
     <div class="overlay">
       <h2>Globular Cluster Populations</h2>
       <p>Binary interactions and stellar feedback shaping <strong>multiple populations</strong> in globular clusters.</p>
