@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -6,11 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Dandan Wei</title>
 
-    <!-- 加载自定义样式 -->
+    <!-- 引入 CSS 样式 -->
     <link rel="stylesheet" href="/assets/css/style.css">
-
-    <!-- 网站图标（可选） -->
-    <link rel="icon" href="/assets/images/me.jpg">
   </head>
 
   <body>
@@ -22,24 +18,12 @@
       <a href="/cv">CV</a>
     </nav>
 
-    <!-- 页面内容 -->
-    {{ content }}
+    <!-- 页面内容区域 -->
+    <main>
+      {{ content }}
+    </main>
 
-    <!-- 夜间模式按钮 -->
-    <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
-
-    <script>
-      function toggleTheme() {
-        const body = document.body;
-        const currentTheme = body.getAttribute('data-theme');
-        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        body.setAttribute('data-theme', newTheme);
-        localStorage.setItem('theme', newTheme);
-      }
-      const savedTheme = localStorage.getItem('theme') || 'light';
-      document.body.setAttribute('data-theme', savedTheme);
-    </script>
-
+    <!-- 页脚 -->
     <footer>
       <p>© 2025 Dandan Wei | Built with GitHub Pages</p>
     </footer>
