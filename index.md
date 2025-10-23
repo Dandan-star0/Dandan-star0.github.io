@@ -66,6 +66,11 @@ title: "Home"
       </div>
     </div>
 
+    <p class="read-more">
+      <a href="/publications">See full publication list →</a>
+    </p>
+
+
   </div>
 
 </div>
