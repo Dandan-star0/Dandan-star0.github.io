@@ -330,6 +330,27 @@ a:hover {
 }
 
 
+/* ===== Read More Link Styling ===== */
+.read-more {
+  margin-top: 20px;
+  font-size: 1.05em;
+}
+
+.read-more a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.read-more a:hover {
+  color: var(--link);
+  text-shadow: 0 0 8px var(--shadow);
+}
+
+
+
+
 
 /* Responsive (mobile) */
 @media (max-width: 768px) {
