@@ -31,7 +31,7 @@ I am a postdoctoral fellow at ISTA, Austria.
 ## Work experiences
 
 - **2024.09** — Joined ISTA as Postdoctoral Fellow (Advisor: Prof. Ylva Götberg)  
-- **2021.10 -- 2023.12 ** — CSC–DAAD postdoctoral research at Heidelberg Institute for Theoretical Studies (Advisor: Dr. Fabian Schneider)  
+- **2021.10 -- 2023.12** — CSC–DAAD postdoctoral research at Heidelberg Institute for Theoretical Studies (Advisor: Dr. Fabian Schneider)  
 - **2016.09 -- 2021.07** — PhD at Yunnan Observatories, Chinese Academy of Sciences  
 
 ---
