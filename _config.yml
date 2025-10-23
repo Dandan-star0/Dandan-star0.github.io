@@ -1,32 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-#title: "Dandan Wei"
+title: "Dandan Wei"
 description: "Postdoctoral Fellow at ISTA, Austria"
-theme: jekyll-theme-minimal
+url: "https://Dandan-star0.github.io"
+theme: null   # 我们将使用自定义样式，而不是默认 Jekyll 主题
 
-# 网站信息
-logo: /assets/images/me.jpg
-show_downloads: false
-
-# 页眉导航栏
+# 导航栏设置
 header_pages:
   - index.md
+  - research.md
   - publications.md
+  - cv.md
 
-# 版权信息
-footer: "© 2025 Dandan Wei | Built with GitHub Pages"
-
-# 社交链接（可选）
+# 社交链接
 social_links:
   github: "https://github.com/Dandan-star0"
   scholar: "https://scholar.google.com/"
