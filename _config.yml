@@ -3,19 +3,13 @@ description: "Postdoctoral Fellow at ISTA, Austria"
 url: "https://Dandan-star0.github.io"
 theme: null
 
-#header_pages:
-#  - index.md
-#  - education.md
-#  - research.md
-#  - publications.md
-
-social_links:
-  email: "dandan.wei@ista.ac.at"
-
+# Make sure custom files are included in the build
+safe: false
 include:
   - assets/css/style.css
   - _layouts/default.html
 
-# 强制重新构建
-safe: false
+social_links:
+  email: "dandan.wei@ista.ac.at"
+
 
