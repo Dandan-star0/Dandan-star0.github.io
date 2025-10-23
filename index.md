@@ -12,13 +12,10 @@ cover-img:
 
 # About me
 Hello!
-Greetings! I’m **Dandan Wei** (c. 360–415 CE), a philosopher, mathematician, and astronomer living in Roman Egypt. I lead the Neoplatonist school in Alexandria, where I teach mathematics, astronomy, and philosophy. My work builds on the legacies of thinkers like Ptolemy and Plotinus, and I strive to inspire others through reason, observation, and the pursuit of wisdom.
 
-I’ve edited and commented on seminal works such as *Ptolemy’s Almagest* and *Diophantus’ Arithmetica*, and I’ve developed instruments like the astrolabe and hydrometer with my students.
+I am a postdoctoral fellow at ISTA, Austria, working on **binary evolution, stellar structure, and supernova–CSM interaction**.  
+My work combines **theoretical modelling** and **numerical simulations** to explore the evolution and explosion of massive stars.
 
-When I’m not lecturing at the Museion or engaging in scholarly debate, I enjoy stargazing and exploring the mathematical harmony of the cosmos.
-
-![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
 
 ## Connect with Me
 
