@@ -9,6 +9,7 @@
   </head>
 
   <body>
+    <canvas id="stars"></canvas>   <!-- 🌌 星空层 --> 
     <nav>
       <div class="nav-left"><strong>ISTA · Dandan Wei</strong></div>
       <div class="nav-right">
@@ -29,6 +30,48 @@
       <p>© 2025 Dandan Wei — stay with <span class="star">💫</span> at ISTA</p>
     </footer>
 
+
+
+
+
+    <script>
+      // 🌠 Draw subtle stars in the background
+      const canvas = document.getElementById("stars");
+      const ctx = canvas.getContext("2d");
+
+      function resizeCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+      }
+      window.addEventListener("resize", resizeCanvas);
+      resizeCanvas();
+
+      const stars = Array.from({ length: 120 }, () => ({
+        x: Math.random() * canvas.width,
+        y: Math.random() * canvas.height,
+        r: Math.random() * 1.2,
+        o: 0.6 + Math.random() * 0.4,
+        d: Math.random() * 0.02 + 0.002,
+      }));
+
+      function animateStars() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        for (let s of stars) {
+          ctx.beginPath();
+          ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+          ctx.fillStyle = `rgba(160,200,255,${s.o})`;
+          ctx.fill();
+          s.o += s.d;
+         if (s.o > 1 || s.o < 0.4) s.d = -s.d;
+       }
+       requestAnimationFrame(animateStars);
+     }
+     animateStars();
+  </script>
+
+
+
+    
     <script>
       function toggleTheme() {
         const body = document.body;
