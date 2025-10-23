@@ -1,29 +1,54 @@
+/* ==== General Layout ==== */
+:root {
+  --bg-color: #f5f7fa;
+  --text-color: #222;
+  --link-color: #0074a8;
+  --accent-color: #004b6b;
+  --panel-bg: #ffffff;
+  --left-bg: linear-gradient(180deg, #e7f2f7, #f8fcff);
+  --shadow: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] {
+  --bg-color: #1b1f24;
+  --text-color: #ddd;
+  --link-color: #66c2ff;
+  --accent-color: #93d5ff;
+  --panel-bg: #232933;
+  --left-bg: linear-gradient(180deg, #2a323c, #1f252e);
+  --shadow: rgba(255, 255, 255, 0.08);
+}
+
+/* ==== Body and Container ==== */
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #333;
-  background-color: #f9f9f9;
+  background-color: var(--bg-color);
+  color: var(--text-color);
   margin: 0;
-  padding: 0;
+  line-height: 1.6;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .container {
   display: flex;
   flex-wrap: wrap;
   max-width: 1100px;
-  margin: 40px auto;
-  background: white;
-  border-radius: 15px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  margin: 60px auto;
+  background: var(--panel-bg);
+  border-radius: 16px;
+  box-shadow: 0 4px 20px var(--shadow);
   overflow: hidden;
+  transition: all 0.3s ease;
 }
 
+/* ==== Left Panel ==== */
 .left-panel {
   flex: 1;
-  min-width: 250px;
-  background: #eef5f7;
-  padding: 30px;
+  min-width: 280px;
+  background: var(--left-bg);
+  padding: 40px 20px;
   text-align: center;
-  border-right: 1px solid #ddd;
+  border-right: 1px solid #d9e2ec;
 }
 
 .profile-pic {
@@ -32,30 +57,119 @@ body {
   border-radius: 50%;
   margin-bottom: 20px;
   object-fit: cover;
+  border: 3px solid #a0c4e3;
 }
 
+.left-panel h2 {
+  color: var(--accent-color);
+  margin-bottom: 10px;
+  font-size: 1.6em;
+}
+
+.left-panel a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.left-panel a:hover {
+  text-decoration: underline;
+}
+
+/* ==== Right Panel ==== */
 .right-panel {
   flex: 3;
-  padding: 40px;
+  padding: 50px;
 }
 
-h1, h2 {
-  color: #004b6b;
-  border-bottom: 1px solid #ddd;
+.right-panel h1, .right-panel h2 {
+  color: var(--accent-color);
+  border-bottom: 2px solid #cfe3f0;
   padding-bottom: 5px;
+  margin-top: 40px;
+}
+
+.right-panel h1:first-child, .right-panel h2:first-child {
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: square;
+  margin-left: 25px;
 }
 
 a {
-  color: #0074a8;
+  color: var(--link-color);
   text-decoration: none;
 }
 
 a:hover {
+  color: var(--accent-color);
   text-decoration: underline;
 }
 
-ul {
-  list-style: square;
-  margin-left: 20px;
+/* ==== Navigation Bar ==== */
+nav {
+  background: var(--accent-color);
+  text-align: center;
+  padding: 14px 0;
+  box-shadow: 0 2px 5px var(--shadow);
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
+nav a {
+  color: white;
+  margin: 0 18px;
+  font-weight: 500;
+  font-size: 17px;
+  text-decoration: none;
+  transition: opacity 0.3s ease, color 0.3s ease;
+}
+
+nav a:hover {
+  opacity: 0.75;
+}
+
+/* ==== Theme Toggle Button ==== */
+.theme-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 25px;
+  background: var(--accent-color);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 46px;
+  height: 46px;
+  cursor: pointer;
+  box-shadow: 0 3px 8px var(--shadow);
+  transition: background 0.3s ease;
+}
+
+.theme-toggle:hover {
+  background: var(--link-color);
+}
+
+/* ==== Footer ==== */
+footer {
+  text-align: center;
+  color: #777;
+  padding: 20px;
+  font-size: 14px;
+}
+
+/* ==== Responsive Design ==== */
+@media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+    margin: 20px;
+  }
+  .left-panel {
+    border-right: none;
+    border-bottom: 1px solid #ddd;
+  }
+  .right-panel {
+    padding: 30px 20px;
+  }
+}
