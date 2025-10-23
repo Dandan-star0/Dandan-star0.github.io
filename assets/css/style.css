@@ -447,7 +447,7 @@ footer p::before {
   z-index: -1;
   background: transparent;
   pointer-events: none;
-  opacity: 0.8;
+  opacity: 1.0;
 }
 
 
