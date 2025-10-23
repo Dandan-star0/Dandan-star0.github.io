@@ -60,11 +60,13 @@ title: "Home"
     </div>
 
     <div class="news-item">
-      <div class="news-date">2023.12</div>
+      <div class="news-date">2024.08</div>
       <div class="news-content">
-        🏅 Completed CSC-DAAD postdoctoral research at <strong>HITS</strong> with Dr. Fabian Schneider.
+        🏅 <strong>New paper in A&A!</strong> Our work <em>"The evolution and final fate of post-common-envelope massive binaries"</em> explores how </strong>additional mass transfer</strong> and <strong>circumbinary disks</strong> affect subsequent <strong>gravitational merger events</strong>.
       </div>
     </div>
+    
+
 
     <p class="read-more">
       <a href="/publications">See full publication list →</a>
