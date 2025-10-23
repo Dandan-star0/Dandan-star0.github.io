@@ -14,41 +14,41 @@ title: "Outreach"
 
 ## 🎲 Habitable – A Board Game for Science Communication
 
-
-::contentReference[oaicite:2]{index=2}
-
+<div class="image-carousel">
+  <img src="/assets/images/habitable-1.jpg" alt="Habitable board game">
+  <img src="/assets/images/habitable-2.jpg" alt="Testing event in Heidelberg">
+  <img src="/assets/images/habitable-3.jpg" alt="Team at HITS">
+</div>
 
 **Project Highlights:**
-- Awarded €10,000 in the Wissenschaft im Dialog competition for the Year of Science “Our Universe”. :contentReference[oaicite:3]{index=3}  
-- Workshop held with game-developer partner and testing events with school students in Heidelberg. :contentReference[oaicite:4]{index=4}  
-- Designed to teach players about exoplanets, habitability, effects of mass transfer and climate change in an interactive format. :contentReference[oaicite:5]{index=5}  
+- Awarded €10,000 in the *Wissenschaft im Dialog* competition for the Year of Science “Our Universe”.  
+- Workshop held with game-developer partners and testing events with school students in Heidelberg.  
+- Designed to teach players about exoplanets, habitability, mass transfer, and climate change in an interactive format.  
 
 ---
 
 ## 🧩 My Role & Contributions
 
-- Conceptualised key scientific mechanisms for the game, linking stellar evolution, binary interactions and habitability.  
-- Co-led public test events in Heidelberg with schools and outreach centres.  
-- Helped translate game mechanics into accessible topics for non‐specialists while retaining research authenticity.  
+- Conceptualised key physical mechanisms for the game, linking stellar evolution, binary interactions, and habitability.  
+- Co-led public testing sessions in Heidelberg with schools and outreach centres.  
+- Helped translate complex scientific ideas into accessible, engaging gameplay.  
 
 ---
 
 ## 📸 Gallery from Events
 
-
-::contentReference[oaicite:6]{index=6}
-
+<div class="image-carousel">
+  <img src="/assets/images/habitable-4.jpg" alt="Workshop photo">
+  <img src="/assets/images/habitable-5.jpg" alt="Game components">
+  <img src="/assets/images/habitable-6.jpg" alt="Public event session">
+</div>
 
 ---
 
 ## 📢 Media & News
 
-- “More than just a game: How long can there be life on Earth?” — HITS, March 2023. :contentReference[oaicite:7]{index=7}  
-- “A step forward: Workshop for the ‘Habitable’ board game” — HITS News, May 2023. :contentReference[oaicite:8]{index=8}  
-- Online version of the game available worldwide. :contentReference[oaicite:9]{index=9}  
-
-
-
-
+- “More than just a game: How long can there be life on Earth?” — *HITS*, March 2023. [Read more](https://www.h-its.org/2023/03/09/habitable-award/)  
+- “A step forward: Workshop for the ‘Habitable’ board game” — *HITS News*, May 2023. [Link](https://habitable.h-its.org/)  
+- “Online version of the game available worldwide” — *Astrobites*, Oct 2023. [Link](https://astrobites.org/2023/10/27/keep-it-clean-keep-it-habitable-a-game-about-life/)
 
 
