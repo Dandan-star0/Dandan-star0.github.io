@@ -6,7 +6,7 @@ title: "Home"
 <div class="profile-container">
 
   <div class="profile-left">
-    <img src="/assets/images/me.jpg" alt="Dandan Wei" class="profile-pic">
+    <img src="/assets/images/Dandan.jpg" alt="Dandan Wei" class="profile-pic">
   </div>
 
   <div class="profile-right">
