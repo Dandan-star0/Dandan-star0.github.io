@@ -8,13 +8,12 @@ title: "Home"
 **Postdoctoral Fellow**  
 Institute of Science and Technology Austria (ISTA)  
 📧 [dandan.wei@ista.ac.at](mailto:dandan.wei@ista.ac.at)  
-[GitHub](https://github.com/Dandan-star0) · [Google Scholar](https://scholar.google.com/)
+
 
 ---
 
 ## About Me
-I am a postdoctoral fellow at ISTA, Austria, working on **massive binary evolution, stellar collapse, and supernova–CSM interaction**.  
-My research combines **stellar evolution theory**, **hydrodynamic simulations**, and **light curve modelling** to understand how massive stars evolve, collapse, and produce gravitational-wave progenitors and diverse supernova types.
+I am a postdoctoral fellow at ISTA, Austria.
 
 ---
 
@@ -25,7 +24,7 @@ My research combines **stellar evolution theory**, **hydrodynamic simulations**,
 
 ---
 
-## News
+## Work experiences
 - **2024.09** — Joined ISTA as a CSC–DAAD Postdoctoral Fellow (Advisor: Prof. Ylva Götberg)  
 - **2023.07** — Completed postdoctoral research at Heidelberg Institute for Theoretical Studies (Advisor: Dr. Fabian Schneider)  
 - **2021.09** — Defended Ph.D. at Yunnan Observatories, Chinese Academy of Sciences  
