@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Dandan Wei</title>
 
-    <!-- Load CSS -->
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <!-- 引入自定义 CSS（改为相对路径，防止加载失败） -->
+    <link rel="stylesheet" href="assets/css/style.css">
   </head>
 
   <body>
-    <!-- Top Navigation -->
+    <!-- 顶部导航栏 -->
     <nav>
       <a href="/">Home</a>
       <a href="/research">Research</a>
@@ -18,10 +18,11 @@
       <a href="/cv">CV</a>
     </nav>
 
-    <!-- Main Page Content -->
-    {{ content }}
+    <!-- 页面主要内容 -->
+    <main>
+      {{ content }}
+    </main>
 
-    <!-- Footer -->
     <footer>
       <p>© 2025 Dandan Wei | Built with GitHub Pages</p>
     </footer>
