@@ -3,6 +3,11 @@ layout: default
 title: "Home"
 ---
 
+<p align="center">
+  <img src="/assets/images/Dandan.jpg" alt="Dandan Wei" class="profile-pic">
+</p>
+
+
 # Dandan Wei
 
 **Postdoctoral Fellow**  
