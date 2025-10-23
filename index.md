@@ -2,33 +2,6 @@
 layout: default
 title: "Home"
 ---
-<nav>
-  <a href="/">Home</a>
-  <a href="/research">Research</a>
-  <a href="/publications">Publications</a>
-  <a href="/cv">CV</a>
-</nav>
-
-<button class="theme-toggle" onclick="toggleTheme()">🌓</button>
-
-<script>
-  function toggleTheme() {
-    const body = document.body;
-    const currentTheme = body.getAttribute('data-theme');
-    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    body.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-  }
-  // Load stored theme
-  const savedTheme = localStorage.getItem('theme') || 'light';
-  document.body.setAttribute('data-theme', savedTheme);
-</script>
-
-
-
-
-
-
 
 <div class="container">
 
@@ -44,37 +17,37 @@ title: "Home"
 </div>
 
 <div class="right-panel">
-  <h2>About Me</h2>
-  <p>
-  I am a postdoctoral fellow at ISTA, Austria, working on <strong>binary evolution, stellar structure,</strong> 
-  and <strong>supernova–CSM interaction</strong>.  
-  My work combines <em>theoretical modelling</em> and <em>numerical simulations</em> to study the life and death of massive stars.
-  </p>
 
-  <h2>Research Interests</h2>
-  <ul>
-    <li>Binary evolution and Roche lobe overflow</li>
-    <li>Supernova interaction with circumstellar material (CSM)</li>
-    <li>Stellar structure and envelope binding energy</li>
-    <li>Hydrodynamic modelling and light curve synthesis</li>
-  </ul>
+## About Me
 
-  <h2>News</h2>
-  <ul>
-    <li><strong>2024.09</strong> — Joined ISTA as a CSC–DAAD Postdoctoral Fellow</li>
-    <li><strong>2023.07</strong> — Defended Ph.D. in Astrophysics</li>
-    <li><strong>2022.12</strong> — Published paper on SN–CSM interaction modelling</li>
-  </ul>
+I am a postdoctoral fellow at ISTA, Austria, working on **massive binary evolution, stellar collapse, and supernova–CSM interaction**.  
+My research combines **stellar evolution theory**, **hydrodynamic simulations**, and **light curve modelling** to understand how massive stars evolve, collapse, and produce gravitational-wave progenitors and diverse supernova types.
 
-  <h2>Selected Publications</h2>
-  <ul>
-    <li>Wei, D., et al. (2024). <em>Shock breakout in non-power-law CSM environments</em>. A&A, submitted.</li>
-    <li>Wei, D., et al. (2023). <em>Binary evolution with Roche lobe overflow</em>. MNRAS.</li>
-    <li>Wei, D., et al. (2022). <em>Energy transport in SN–CSM interactions</em>. ApJ.</li>
-  </ul>
+---
+
+## Research Interests
+
+- Evolution of massive binary stars and progenitors of gravitational-wave sources  
+- Core-collapse supernova formation and light curve modelling  
+- Multiple stellar populations and population synthesis in globular clusters  
+
+---
+
+## News
+
+- **2024.09** — Joined ISTA as a CSC–DAAD Postdoctoral Fellow (Advisor: Prof. Ylva Götberg)  
+- **2023.07** — Completed postdoctoral research at Heidelberg Institute for Theoretical Studies (Advisor: Dr. Fabian Schneider)  
+- **2021.09** — Defended Ph.D. at Yunnan Observatories, Chinese Academy of Sciences  
+
+---
+
+## Selected Publications
+
+- Wei, D., Schneider, F. R. N., *et al.* (2024). *The evolution and final fate of post-common-envelope massive binaries*. **A&A**, 688, A87.  
+- Wei, D., Wang, B., Chen, X., *et al.* (2020). *Mass transfer of low-mass binaries and chemical anomalies among unevolved stars in globular clusters*. **MNRAS**, 493, 5479.  
+- Wei, D., Wang, B., Chen, H., *et al.* (2021). *Fractions of post-binary-interaction stars and evolved blue stragglers on the red giant branch of globular clusters*. **RAA**, 21, 223.  
+
+For a full list, see [Publications](publications.md).
 
 </div>
-
 </div>
-**Email:** [dandan.wei@ista.ac.at](mailto:dandan.wei@ista.ac.at)  
-**Address:** Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria  
