@@ -12,5 +12,6 @@ Institute of Science and Technology Austria (ISTA)
 ---
 
 ## About Me
-I am a postdoctoral fellow at ISTA, Austria, working on **massive binary evolution, stellar collapse, and supernova–CSM interaction**.  
-My research combines **stellar evolution theory**, **hydrodynamic simulations**, and **light curve modelling** to understand how massive stars evolve, collapse, and produce gravitational-wave progenitors and diverse supernova types.
+I am a postdoctoral research fellow at ISTA, Austria, working on **the evolution and final fate of massive binary evolution**, **gravitational mergers ** and **interacting supernovae**.  
+
+
