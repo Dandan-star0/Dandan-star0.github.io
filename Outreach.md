@@ -7,7 +7,7 @@ title: "Outreach"
 
 <div class="outreach-intro">
   <p>
-    I am passionate about bringing astrophysics and stellar-evolution research to the broader public.  
+    We am passionate about bringing astrophysics and stellar-evolution research to the broader public.  
     One of our flagship activities is the board game <strong>“Habitable”</strong>, developed at the Heidelberg Institute for Theoretical Studies (HITS) to engage families, students and game-enthusiasts in the science of planetary habitability.  
   </p>
 </div>
@@ -20,18 +20,13 @@ title: "Outreach"
   <img src="/assets/images/habitable-3.jpg" alt="Team at HITS">
 </div>
 
-**Project Highlights:**
-- Awarded €10,000 in the *Wissenschaft im Dialog* competition for the Year of Science “Our Universe”.  
-- Workshop held with game-developer partners and testing events with school students in Heidelberg.  
-- Designed to teach players about exoplanets, habitability, mass transfer, and climate change in an interactive format.  
-
 ---
 
-## 🧩 My Role & Contributions
+## 🌟 Project Highlights:
+- Awarded €10,000 in the *Wissenschaft im Dialog* competition for the Year of Science “Our Universe”.  
+- Workshop held with game-developer partners and testing events with school students in Heidelberg.  
+- Designed to teach players about exoplanets, habitability, and climate change in an interactive format.  
 
-- Conceptualised key physical mechanisms for the game, linking stellar evolution, binary interactions, and habitability.  
-- Co-led public testing sessions in Heidelberg with schools and outreach centres.  
-- Helped translate complex scientific ideas into accessible, engaging gameplay.  
 
 ---
 
