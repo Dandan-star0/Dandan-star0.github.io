@@ -16,3 +16,6 @@ include:
   - assets/css/style.css
   - _layouts/default.html
 
+# 强制重新构建
+safe: false
+
