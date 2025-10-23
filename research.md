@@ -12,7 +12,7 @@ I explore how binary interactions shape the fates of massive stars and produce d
 ---
 
 <div class="research-grid">
-  <div class="research-card" style="background-image: url('/assets/images/binary.jpg');">
+  <div class="research-card" style="background-image: url('/assets/images/binary_star.jpg');">
     <div class="overlay">
       <h2>Massive Binary Evolution</h2>
       <p>Binary mass transfer, common-envelope evolution, and orbital dynamics leading to <strong>gravitational-wave progenitors</strong>.</p>
