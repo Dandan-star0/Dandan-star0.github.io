@@ -26,8 +26,8 @@ I am a postdoctoral research fellow at ISTA, Austria, working on
 **the evolution and final fate of massive binary stars**, **gravitational mergers**,  
 and **interacting supernovae**.  
 
-My research combines **stellar evolution theory**, **hydrodynamic simulations**,  
-and **light-curve modelling** to understand how massive stars evolve, collapse,  
-and produce gravitational-wave progenitors and diverse supernova types.
+My research combines **stellar evolution theory**, and **light-curve modelling** 
+to understand how massive stars evolve, collapse, and produce gravitational-wave 
+mergers and diverse supernova types.
 
 </div>
