@@ -1,16 +1,14 @@
 title: "Dandan Wei"
 description: "Postdoctoral Fellow at ISTA, Austria"
 url: "https://Dandan-star0.github.io"
-theme: null   # 我们将使用自定义样式，而不是默认 Jekyll 主题
+theme: null
 
-# 导航栏设置
 header_pages:
   - index.md
   - research.md
   - publications.md
   - cv.md
 
-# 社交链接
 social_links:
   github: "https://github.com/Dandan-star0"
   scholar: "https://scholar.google.com/"
