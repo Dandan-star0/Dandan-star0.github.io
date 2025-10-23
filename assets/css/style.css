@@ -190,7 +190,7 @@ a:hover {
   width: 14px;
   height: 14px;
   background: var(--accent);
-  border-radius: 70%;
+  border-radius: 50%;
   box-shadow: 0 0 0 4px var(--bg);
 }
 
