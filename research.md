@@ -4,6 +4,31 @@ layout: default
 title: "Research"
 ---
 
+<nav>
+  <a href="/">Home</a>
+  <a href="/research">Research</a>
+  <a href="/publications">Publications</a>
+  <a href="/cv">CV</a>
+</nav>
+
+<button class="theme-toggle" onclick="toggleTheme()">🌓</button>
+
+<script>
+  function toggleTheme() {
+    const body = document.body;
+    const currentTheme = body.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    body.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  }
+  // Load stored theme
+  const savedTheme = localStorage.getItem('theme') || 'light';
+  document.body.setAttribute('data-theme', savedTheme);
+</script>
+
+
+
+
 # 🔭 Research Overview
 
 My research focuses on the **evolution and explosion of massive binary stars**.  
