@@ -36,6 +36,10 @@ title: "Home"
       how massive stars evolve, collapse, and produce gravitational-wave
       progenitors and diverse supernova types.
     </p>
+    <p class="read-more">
+        <a href="/research">Read more about my research →</a>
+    </p>
+
   </div>
 
   <div class="news-box">
