@@ -53,9 +53,9 @@ title: "Home"
     </div>
 
     <div class="news-item">
-      <div class="news-date">2023.07</div>
+      <div class="news-date">2023.12</div>
       <div class="news-content">
-        🏅 Completed postdoctoral research at <strong>HITS</strong> with Dr. Fabian Schneider.
+        🏅 Completed CSC-DAAD postdoctoral research at <strong>HITS</strong> with Dr. Fabian Schneider.
       </div>
     </div>
 
