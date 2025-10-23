@@ -5,14 +5,17 @@ title: "Publications"
 
 # 📄 Publications
 
+## 2025
+- **Wei, D.**, Schneider, F. R. N., Podsiadlowski, Ph., Laplace, E.  
+  *Diversity of circumstellar material around envelope-stripped supernova progenitors via binary interactions.*  
+  *To be submitted to A&A.*
+
+  ---
+
 ## 2024
 - **Wei, D.**, Schneider, F. R. N., Podsiadlowski, Ph., Laplace, E., Röpke, K. F., Vetter, M.  
   *The evolution and final fate of post-common-envelope massive binaries.*  
   **A&A**, 688, A87.  
-
-- **Wei, D.**, Schneider, F. R. N., Podsiadlowski, Ph., Laplace, E.  
-  *Diversity of circumstellar material around envelope-stripped supernova progenitors via binary interactions.*  
-  *To be submitted to A&A.*
 
 ---
 
