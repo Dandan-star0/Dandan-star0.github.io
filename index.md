@@ -62,7 +62,7 @@ title: "Home"
     <div class="news-item">
       <div class="news-date">2024.08</div>
       <div class="news-content">
-        🏅 <strong>New paper in A&A!</strong> Our work <em>"The evolution and final fate of post-common-envelope massive binaries"</em> explores how </strong>additional mass transfer</strong> and <strong>circumbinary disks</strong> affect subsequent <strong>gravitational merger events</strong>.
+        🏅 <strong>New paper in A&A!</strong> Our work <em>"The evolution and final fate of post-common-envelope massive binaries"</em> explores how <strong>additional mass transfer</strong> and <strong>circumbinary disks</strong> affect subsequent <strong>gravitational merger events</strong>.
       </div>
     </div>
     
