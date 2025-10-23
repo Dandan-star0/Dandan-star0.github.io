@@ -19,7 +19,7 @@ I explore how binary interactions shape the fates of massive stars and produce d
     </div>
   </div>
 
-  <div class="research-card" style="background-image: url('/assets/images/sn.jpg');">
+  <div class="research-card" style="background-image: url('/assets/images/The_Crab_Nebula.jpg');">
     <div class="overlay">
       <h2>Core-Collapse Supernovae</h2>
       <p>Shock propagation and light curve evolution in <strong>supernova–CSM interaction</strong>, modelled analytically and numerically.</p>
