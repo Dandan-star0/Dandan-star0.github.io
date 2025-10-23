@@ -5,16 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Dandan Wei</title>
 
-    <!-- Load Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
   </head>
 
   <body>
-    <!-- Top Navigation -->
     <nav>
-      <div class="nav-left">
-        <strong>ISTA · Dandan Wei</strong>
-      </div>
+      <div class="nav-left"><strong>ISTA · Dandan Wei</strong></div>
       <div class="nav-right">
         <a href="/">Home</a>
         <a href="/research">Research</a>
@@ -23,12 +19,10 @@
       </div>
     </nav>
 
-    <!-- Page Content -->
     <main class="page-content">
       {{ content }}
     </main>
 
-    <!-- Night Mode Toggle -->
     <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
 
     <footer>
@@ -36,7 +30,6 @@
     </footer>
 
     <script>
-      // Dark/Light theme switch
       function toggleTheme() {
         const body = document.body;
         const current = body.getAttribute("data-theme");
