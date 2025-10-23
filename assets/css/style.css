@@ -271,7 +271,7 @@ a:hover {
   height: 180px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: 50% 60%;
+  object-position: 50% 80%;
   box-shadow: 0 6px 15px var(--shadow);
   border: 3px solid var(--accent);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
