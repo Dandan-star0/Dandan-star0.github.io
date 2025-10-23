@@ -12,8 +12,7 @@ theme: null
 social_links:
   email: "dandan.wei@ista.ac.at"
 
-
-  include:
+include:
   - assets/css/style.css
   - _layouts/default.html
 
