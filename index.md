@@ -3,56 +3,51 @@ layout: default
 title: "Home"
 ---
 
-# 👋 Welcome!
+<div class="container">
 
-![Dandan Wei](/assets/images/me.jpg){: style="float: right; width: 180px; margin-left: 20px; border-radius: 50%;"}
+<div class="left-panel">
+  <img src="/assets/images/me.jpg" alt="Dandan Wei" class="profile-pic">
+  <h2>Dandan Wei</h2>
+  <p>Postdoctoral Fellow<br>Institute of Science and Technology Austria (ISTA)</p>
+  <p><a href="mailto:dandan.wei@ista.ac.at">dandan.wei@ista.ac.at</a></p>
+  <p>
+    <a href="https://github.com/Dandan-star0">GitHub</a> |
+    <a href="https://scholar.google.com/">Google Scholar</a>
+  </p>
+</div>
 
-**Dr. Dandan Wei**  
-Postdoctoral Fellow, [ISTA](https://ista.ac.at), Austria  
-📧 [dandan.wei@ista.ac.at](mailto:dandan.wei@ista.ac.at)  
-🌐 [GitHub](https://github.com/Dandan-star0) • [Google Scholar](https://scholar.google.com/)  
+<div class="right-panel">
+  <h2>About Me</h2>
+  <p>
+  I am a postdoctoral fellow at ISTA, Austria, working on <strong>binary evolution, stellar structure,</strong> 
+  and <strong>supernova–CSM interaction</strong>.  
+  My work combines <em>theoretical modelling</em> and <em>numerical simulations</em> to study the life and death of massive stars.
+  </p>
 
----
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Binary evolution and Roche lobe overflow</li>
+    <li>Supernova interaction with circumstellar material (CSM)</li>
+    <li>Stellar structure and envelope binding energy</li>
+    <li>Hydrodynamic modelling and light curve synthesis</li>
+  </ul>
 
-## 🧬 About Me
+  <h2>News</h2>
+  <ul>
+    <li><strong>2024.09</strong> — Joined ISTA as a CSC–DAAD Postdoctoral Fellow</li>
+    <li><strong>2023.07</strong> — Defended Ph.D. in Astrophysics</li>
+    <li><strong>2022.12</strong> — Published paper on SN–CSM interaction modelling</li>
+  </ul>
 
-I am a postdoctoral fellow at ISTA, Austria, working on **binary evolution**, **stellar structure**, and **supernova–CSM interaction**.  
-My work combines **theoretical modelling** and **numerical simulations** to explore the evolution and explosion of massive stars.
+  <h2>Selected Publications</h2>
+  <ul>
+    <li>Wei, D., et al. (2024). <em>Shock breakout in non-power-law CSM environments</em>. A&A, submitted.</li>
+    <li>Wei, D., et al. (2023). <em>Binary evolution with Roche lobe overflow</em>. MNRAS.</li>
+    <li>Wei, D., et al. (2022). <em>Energy transport in SN–CSM interactions</em>. ApJ.</li>
+  </ul>
 
-I received my Ph.D. in China and joined ISTA in 2024 with the support of the **CSC–DAAD Postdoctoral Fellowship**.  
-I am deeply interested in understanding how massive binary stars evolve and how their explosions shape the universe.
+</div>
 
----
-
-## 🔭 Research Interests
-
-- Binary evolution and Roche lobe overflow  
-- Supernova interaction with circumstellar material (CSM)  
-- Stellar structure and envelope binding energy  
-- Hydrodynamic modelling and light curve synthesis  
-- MESA simulations and post-processing analysis  
-
----
-
-## 📰 Latest Updates
-
-- **2024.09** — Joined ISTA as a CSC–DAAD Postdoctoral Fellow  
-- **2023.07** — Defended Ph.D. in Astrophysics  
-- **2022.12** — Published paper on SN–CSM interaction modelling  
-
----
-
-## 📄 Selected Publications
-
-A few recent papers are listed below. For the full list, see [Publications](publications.md).
-
-1. Wei, D., et al. (2024). *Shock breakout in non-power-law CSM environments*. **A&A, submitted**.  
-2. Wei, D., et al. (2023). *Binary evolution with Roche lobe overflow: orbital dynamics and envelope stripping*. **MNRAS**.  
-3. Wei, D., et al. (2022). *Energy transport in SN–CSM interactions*. **ApJ**.  
-
----
-
-## 📫 Contact
-
+</div>
 **Email:** [dandan.wei@ista.ac.at](mailto:dandan.wei@ista.ac.at)  
 **Address:** Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria  
