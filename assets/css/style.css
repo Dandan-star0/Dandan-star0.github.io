@@ -229,7 +229,41 @@ a:hover {
 }
 
 
-/* ===== Profile Picture ===== */
+/* ===== Profile Layout (Home Page) ===== */
+.profile-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+.profile-left {
+  flex: 0 0 180px;
+  text-align: center;
+}
+
+.profile-right {
+  max-width: 500px;
+}
+
+.profile-right h1 {
+  margin: 0;
+  font-size: 2em;
+  color: var(--accent);
+}
+
+.profile-right h3 {
+  margin: 8px 0;
+  font-weight: 500;
+}
+
+.profile-right p {
+  margin: 5px 0;
+  font-size: 1.05em;
+}
+
 .profile-pic {
   width: 180px;
   height: 180px;
@@ -237,11 +271,21 @@ a:hover {
   object-fit: cover;
   box-shadow: 0 6px 15px var(--shadow);
   border: 3px solid var(--accent);
-  margin-bottom: 20px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .profile-pic:hover {
   transform: scale(1.05);
   box-shadow: 0 10px 25px var(--shadow);
+}
+
+/* Responsive (mobile) */
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+    text-align: center;
+  }
+  .profile-right {
+    max-width: 90%;
+  }
 }
