@@ -59,12 +59,10 @@ title: "Home"
       </div>
     </div>
 
-    <div class="news-item">
-      <div class="news-date">2021.09</div>
-      <div class="news-content">
-        🎓 Defended Ph.D. thesis at <strong>Yunnan Observatories, CAS</strong>.
-      </div>
-    </div>
+    <p class="read-more">
+      <a href="/publications">See full publication list →</a>
+    </p>
+
 
   </div>
 
