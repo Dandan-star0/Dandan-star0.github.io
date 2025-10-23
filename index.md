@@ -14,10 +14,6 @@ title: "Home"
     <h3>Postdoctoral Fellow</h3>
     <p>Institute of Science and Technology Austria (ISTA)</p>
     <p>📧 <a href="mailto:dandan.wei@ista.ac.at">dandan.wei@ista.ac.at</a></p>
-    <p>
-      <a href="https://github.com/Dandan-star0">GitHub</a> ·
-      <a href="https://scholar.google.com/">Google Scholar</a>
-    </p>
   </div>
 
 </div>
