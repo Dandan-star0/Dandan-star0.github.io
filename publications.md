@@ -25,8 +25,15 @@ title: "Publications"
 
 # 📄 Publications
 
+## 2026
+- **Wei, D.**, Ylva Götberg, et al. 
+  *Challenges to the Classical Treatment of Massive Binary Interactions from Observed Stripped Stars in Binaries.*  
+  *In preparation*
+
+  ---
+
 ## 2025
-- **Wei, D.**, Schneider, F. R. N., Podsiadlowski, Ph., Laplace, E.  
+- **Wei, D.**, Schneider, F. R. N., Podsiadlowski, Ph., Takashi J. M., Laplace, E.  
   *Diversity of circumstellar material around envelope-stripped supernova progenitors via binary interactions.*  
   *To be submitted to A&A.*
 
