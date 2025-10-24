@@ -27,17 +27,6 @@ title: "Outreach"
 - Workshop held with game-developer partners and testing events with school students in Heidelberg.  
 - Designed to teach players about exoplanets, habitability, and climate change in an interactive format.  
 
-
----
-
-## 📸 Gallery from Events
-
-<div class="image-carousel">
-  <img src="/assets/images/habitable-4.jpg" alt="Workshop photo">
-  <img src="/assets/images/habitable-5.jpg" alt="Game components">
-  <img src="/assets/images/habitable-6.jpg" alt="Public event session">
-</div>
-
 ---
 
 ## 📢 Media & News
