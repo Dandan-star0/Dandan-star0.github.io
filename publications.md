@@ -35,7 +35,7 @@ title: "Publications"
 ## 2026
 - **Wei, D.**, Schneider, F. R. N., Podsiadlowski, Ph., Takashi J. M., Laplace, E.  
   *Diversity of stripped-envelope supernovae light curves from interaction with binary-driven circumstellar material.*  
-  *under review A&A.*
+  *under review by A&A.*
 
   ---
 
