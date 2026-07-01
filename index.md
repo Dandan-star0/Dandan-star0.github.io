@@ -44,11 +44,19 @@ title: "Home"
 
   <div class="news-box">
     <h2>📢 Recent News</h2>
+
+    <div class="news-item">
+      <div class="news-date">2026.04</div>
+      <div class="news-content">
+       📄 Submitted our manuscript
+        <em>Diversity of stripped-envelope supernovae light curves from interaction with binary-driven circumstellar material</em> to <strong>A&amp;A</strong>.
+      </div>
+    </div>
     
     <div class="news-item">
       <div class="news-date">2025.08</div>
       <div class="news-content">
-        🎉 Give a talk at the conference "Binary Stars in a New Era" in Lijiang!
+        🎉 Gave a talk at the conference "Binary Stars in a New Era" in Lijiang!
       </div>
     </div>
 
