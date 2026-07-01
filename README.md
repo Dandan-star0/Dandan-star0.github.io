@@ -46,9 +46,9 @@ title: "Home"
     <h2>📢 Recent News</h2>
     
   <div class="news-item">
-    <div class="news-date">2026.07</div>
+    <div class="news-date">2026.04</div>
     <div class="news-content">
-      📄 Submitted our paper
+      📄 Submitted our manuscript
       <em>Diversity of stripped-envelope supernovae light curves from interaction with binary-driven circumstellar material</em>
       to <strong>A&amp;A</strong>.
     </div>
