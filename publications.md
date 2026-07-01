@@ -32,10 +32,10 @@ title: "Publications"
 
   ---
 
-## 2025
+## 2026
 - **Wei, D.**, Schneider, F. R. N., Podsiadlowski, Ph., Takashi J. M., Laplace, E.  
-  *Diversity of circumstellar material around envelope-stripped supernova progenitors via binary interactions.*  
-  *To be submitted to A&A.*
+  *Diversity of stripped-envelope supernovae light curves from interaction with binary-driven circumstellar material.*  
+  *under review A&A.*
 
   ---
 
